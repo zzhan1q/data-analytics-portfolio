@@ -1,0 +1,96 @@
+﻿economy,code,baseline,comparison,metric
+Argentina,ARG,2010,2011,1
+Antigua and Barbuda,ATG,2010,2011,1
+Azerbaijan,AZE,2010,2011,1
+"Bahamas, The",BHS,2010,2011,1
+Chile,CHL,2010,2011,1
+Greece,GRC,2010,2011,1
+Kazakhstan,KAZ,2010,2011,1
+Lebanon,LBN,2010,2011,1
+New Caledonia,NCL,2010,2011,1
+Russian Federation,RUS,2010,2011,1
+Trinidad and Tobago,TTO,2010,2011,1
+Uruguay,URY,2010,2011,1
+Bulgaria,BGR,2011,2012,1
+Montenegro,MNE,2011,2012,1
+Oman,OMN,2011,2012,1
+Puerto Rico (US),PRI,2011,2012,1
+French Polynesia,PYF,2011,2012,1
+Saudi Arabia,SAU,2011,2012,1
+Albania,ALB,2012,2013,1
+Belarus,BLR,2012,2013,1
+Brazil,BRA,2012,2013,1
+Colombia,COL,2012,2013,1
+Dominica,DMA,2012,2013,1
+Serbia,SRB,2012,2013,1
+Seychelles,SYC,2012,2013,1
+"Venezuela, RB",VEN,2012,2013,1
+Armenia,ARM,2013,2014,1
+Costa Rica,CRI,2013,2014,1
+Grenada,GRD,2013,2014,1
+St. Lucia,LCA,2013,2014,1
+Moldova,MDA,2013,2014,1
+West Bank and Gaza,PSE,2013,2014,1
+Romania,ROU,2013,2014,1
+Turkiye,TUR,2013,2014,1
+Virgin Islands (U.S.),VIR,2013,2014,1
+Bosnia and Herzegovina,BIH,2014,2015,1
+China,CHN,2014,2015,1
+Dominican Republic,DOM,2014,2015,1
+Jordan,JOR,2014,2015,1
+Maldives,MDV,2014,2015,1
+Mexico,MEX,2014,2015,1
+Mauritius,MUS,2014,2015,1
+Panama,PAN,2014,2015,1
+South Africa,ZAF,2014,2015,1
+Cabo Verde,CPV,2015,2016,1
+Ecuador,ECU,2015,2016,1
+Georgia,GEO,2015,2016,1
+"Iran, Islamic Rep.",IRN,2015,2016,1
+Paraguay,PRY,2015,2016,1
+San Marino,SMR,2011,2016,5
+Ukraine,UKR,2015,2016,1
+St. Vincent and the Grenadines,VCT,2015,2016,1
+British Virgin Islands,VGB,2012,2016,4
+Viet Nam,VNM,2015,2016,1
+Bhutan,BTN,2016,2017,1
+Cuba,CUB,2016,2017,1
+Djibouti,DJI,2016,2017,1
+Fiji,FJI,2016,2017,1
+Gabon,GAB,2016,2017,1
+Jamaica,JAM,2016,2017,1
+Kyrgyz Republic,KGZ,2016,2017,1
+Peru,PER,2016,2017,1
+Thailand,THA,2016,2017,1
+Tunisia,TUN,2016,2017,1
+Belize,BLZ,2017,2018,1
+Cambodia,KHM,2017,2018,1
+Suriname,SUR,2017,2018,1
+Uzbekistan,UZB,2017,2018,1
+Algeria,DZA,2018,2019,1
+"Egypt, Arab Rep.",EGY,2018,2019,1
+Guyana,GUY,2018,2019,1
+Libya,LBY,2018,2019,1
+Mongolia,MNG,2018,2019,1
+El Salvador,SLV,2018,2019,1
+Tonga,TON,2018,2019,1
+Bolivia,BOL,2019,2020,1
+Botswana,BWA,2019,2020,1
+Ghana,GHA,2019,2020,1
+Equatorial Guinea,GNQ,2019,2020,1
+Indonesia,IDN,2019,2020,1
+Iraq,IRQ,2019,2020,1
+Kiribati,KIR,2019,2020,1
+Lao PDR,LAO,2019,2020,1
+Marshall Islands,MHL,2019,2020,1
+Namibia,NAM,2019,2020,1
+Philippines,PHL,2019,2020,1
+Senegal,SEN,2019,2020,1
+Sao Tome and Principe,STP,2019,2020,1
+Guatemala,GTM,2020,2021,1
+Honduras,HND,2020,2021,1
+Nicaragua,NIC,2020,2021,1
+Eswatini,SWZ,2020,2021,1
+India,IND,2021,2022,1
+Sri Lanka,LKA,2022,2023,1
+Tajikistan,TJK,2022,2023,1

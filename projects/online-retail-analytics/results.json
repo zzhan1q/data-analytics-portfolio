@@ -1,0 +1,2544 @@
+{
+  "monthly": [
+    {
+      "month": "2009-12",
+      "sales": 82248395000,
+      "adjustments": 2583545000,
+      "net": 79664850000,
+      "orders": 1682,
+      "known_customers": 955,
+      "previous_net": null,
+      "net_change": null,
+      "net_growth": null
+    },
+    {
+      "month": "2010-01",
+      "sales": 65115511200,
+      "adjustments": 2867561000,
+      "net": 62247950200,
+      "orders": 1105,
+      "known_customers": 720,
+      "previous_net": 79664850000,
+      "net_change": -17416899800,
+      "net_growth": -0.21862715865278098
+    },
+    {
+      "month": "2010-02",
+      "sales": 55150472600,
+      "adjustments": 2061293000,
+      "net": 53089179600,
+      "orders": 1201,
+      "known_customers": 772,
+      "previous_net": 62247950200,
+      "net_change": -9158770600,
+      "net_growth": -0.14713368987369482
+    },
+    {
+      "month": "2010-03",
+      "sales": 83091526100,
+      "adjustments": 6766802000,
+      "net": 76324724100,
+      "orders": 1681,
+      "known_customers": 1057,
+      "previous_net": 53089179600,
+      "net_change": 23235544500,
+      "net_growth": 0.4376700614902702
+    },
+    {
+      "month": "2010-04",
+      "sales": 67887525200,
+      "adjustments": 3735420000,
+      "net": 64152105200,
+      "orders": 1462,
+      "known_customers": 942,
+      "previous_net": 76324724100,
+      "net_change": -12172618900,
+      "net_growth": -0.15948461057063945
+    },
+    {
+      "month": "2010-05",
+      "sales": 65770550000,
+      "adjustments": 4443478000,
+      "net": 61327072000,
+      "orders": 1500,
+      "known_customers": 966,
+      "previous_net": 64152105200,
+      "net_change": -2825033200,
+      "net_growth": -0.044036484713832896
+    },
+    {
+      "month": "2010-06",
+      "sales": 74953731000,
+      "adjustments": 7246344000,
+      "net": 67707387000,
+      "orders": 1645,
+      "known_customers": 1041,
+      "previous_net": 61327072000,
+      "net_change": 6380315000,
+      "net_growth": 0.10403749587131765
+    },
+    {
+      "month": "2010-07",
+      "sales": 64881027000,
+      "adjustments": 3144479000,
+      "net": 61736548000,
+      "orders": 1529,
+      "known_customers": 928,
+      "previous_net": 67707387000,
+      "net_change": -5970839000,
+      "net_growth": -0.08818593161777163
+    },
+    {
+      "month": "2010-08",
+      "sales": 69525191000,
+      "adjustments": 4047752000,
+      "net": 65477439000,
+      "orders": 1425,
+      "known_customers": 911,
+      "previous_net": 61736548000,
+      "net_change": 3740891000,
+      "net_growth": 0.0605944310329758
+    },
+    {
+      "month": "2010-09",
+      "sales": 92169699100,
+      "adjustments": 7059103000,
+      "net": 85110596100,
+      "orders": 1839,
+      "known_customers": 1145,
+      "previous_net": 65477439000,
+      "net_change": 19633157100,
+      "net_growth": 0.29984613631574686
+    },
+    {
+      "month": "2010-10",
+      "sales": 116190222000,
+      "adjustments": 8129074000,
+      "net": 108061148000,
+      "orders": 2301,
+      "known_customers": 1497,
+      "previous_net": 85110596100,
+      "net_change": 22950551900,
+      "net_growth": 0.26965563574521834
+    },
+    {
+      "month": "2010-11",
+      "sales": 146429314200,
+      "adjustments": 4759594000,
+      "net": 141669720200,
+      "orders": 2747,
+      "known_customers": 1607,
+      "previous_net": 108061148000,
+      "net_change": 33608572200,
+      "net_growth": 0.3110143915924343
+    },
+    {
+      "month": "2010-12",
+      "sales": 82145273000,
+      "adjustments": 7472912000,
+      "net": 74672361000,
+      "orders": 1559,
+      "known_customers": 885,
+      "previous_net": 141669720200,
+      "net_change": -66997359200,
+      "net_growth": -0.47291234220987755
+    },
+    {
+      "month": "2011-01",
+      "sales": 68981161000,
+      "adjustments": 13136305000,
+      "net": 55844856000,
+      "orders": 1086,
+      "known_customers": 741,
+      "previous_net": 74672361000,
+      "net_change": -18827505000,
+      "net_growth": -0.2521348561618401
+    },
+    {
+      "month": "2011-02",
+      "sales": 52254556000,
+      "adjustments": 2551915000,
+      "net": 49702641000,
+      "orders": 1100,
+      "known_customers": 758,
+      "previous_net": 55844856000,
+      "net_change": -6142215000,
+      "net_growth": -0.10998712218006257
+    },
+    {
+      "month": "2011-03",
+      "sales": 71621526000,
+      "adjustments": 3420128000,
+      "net": 68201398000,
+      "orders": 1454,
+      "known_customers": 974,
+      "previous_net": 49702641000,
+      "net_change": 18498757000,
+      "net_growth": 0.3721886126735197
+    },
+    {
+      "month": "2011-04",
+      "sales": 53696849100,
+      "adjustments": 4460065000,
+      "net": 49236784100,
+      "orders": 1246,
+      "known_customers": 856,
+      "previous_net": 68201398000,
+      "net_change": -18964613900,
+      "net_growth": -0.27806781761277094
+    },
+    {
+      "month": "2011-05",
+      "sales": 76929661000,
+      "adjustments": 4720251000,
+      "net": 72209410000,
+      "orders": 1681,
+      "known_customers": 1056,
+      "previous_net": 49236784100,
+      "net_change": 22972625900,
+      "net_growth": 0.4665744589115031
+    },
+    {
+      "month": "2011-06",
+      "sales": 76054701000,
+      "adjustments": 7056978000,
+      "net": 68997723000,
+      "orders": 1533,
+      "known_customers": 991,
+      "previous_net": 72209410000,
+      "net_change": -3211687000,
+      "net_growth": -0.044477402598913356
+    },
+    {
+      "month": "2011-07",
+      "sales": 71807612100,
+      "adjustments": 3791913000,
+      "net": 68015699100,
+      "orders": 1475,
+      "known_customers": 949,
+      "previous_net": 68997723000,
+      "net_change": -982023900,
+      "net_growth": -0.014232700113886367
+    },
+    {
+      "month": "2011-08",
+      "sales": 75784138000,
+      "adjustments": 5433080000,
+      "net": 70351058000,
+      "orders": 1361,
+      "known_customers": 935,
+      "previous_net": 68015699100,
+      "net_change": 2335358900,
+      "net_growth": 0.0343355862088022
+    },
+    {
+      "month": "2011-09",
+      "sales": 105643519200,
+      "adjustments": 3883851000,
+      "net": 101759668200,
+      "orders": 1837,
+      "known_customers": 1266,
+      "previous_net": 70351058000,
+      "net_change": 31408610200,
+      "net_growth": 0.44645540654129184
+    },
+    {
+      "month": "2011-10",
+      "sales": 115126373000,
+      "adjustments": 8189550000,
+      "net": 106936823000,
+      "orders": 2040,
+      "known_customers": 1364,
+      "previous_net": 101759668200,
+      "net_change": 5177154800,
+      "net_growth": 0.05087629403257036
+    },
+    {
+      "month": "2011-11",
+      "sales": 150386678000,
+      "adjustments": 4772098000,
+      "net": 145614580000,
+      "orders": 2769,
+      "known_customers": 1664,
+      "previous_net": 106936823000,
+      "net_change": 38677757000,
+      "net_growth": 0.36168791923059096
+    }
+  ],
+  "drivers": {
+    "2010-01": {
+      "up": [
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "20748",
+          "product": "KENSINGTON COFFEE SET",
+          "current_net": 1024860000,
+          "prior_net": 79008000,
+          "contribution": 945852000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "ADJUST",
+          "product": "Adjustment by john on 26/01/2010 16",
+          "current_net": 756629000,
+          "prior_net": 0,
+          "contribution": 756629000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "48138",
+          "product": "DOORMAT UNION FLAG",
+          "current_net": 491196000,
+          "prior_net": 1387000,
+          "contribution": 489809000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "47502",
+          "product": "POLKADOT CUTLERY 24 PCS IN TRAY",
+          "current_net": 274153000,
+          "prior_net": 65569000,
+          "contribution": 208584000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "22326",
+          "product": "ROUND SNACK BOXES SET OF4 WOODLAND",
+          "current_net": 165955000,
+          "prior_net": 0,
+          "contribution": 165955000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "22086",
+          "product": "PAPER CHAIN KIT 50'S CHRISTMAS",
+          "current_net": 11342000,
+          "prior_net": 1016346000,
+          "contribution": -1005004000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 1134051000,
+          "prior_net": 1857458000,
+          "contribution": -723407000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "22111",
+          "product": "SCOTTIE DOG HOT WATER BOTTLE",
+          "current_net": 137697000,
+          "prior_net": 797896000,
+          "contribution": -660199000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "72756",
+          "product": "FAIRY CAKE CANDLES",
+          "current_net": 2235000,
+          "prior_net": 526578000,
+          "contribution": -524343000
+        },
+        {
+          "month": "2010-01",
+          "previous_month": "2009-12",
+          "stock": "84879",
+          "product": "ASSORTED COLOUR BIRD ORNAMENT",
+          "current_net": 263461000,
+          "prior_net": 761041000,
+          "contribution": -497580000
+        }
+      ],
+      "total": -17416899800
+    },
+    "2010-02": {
+      "up": [
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "22386",
+          "product": "JUMBO BAG PINK POLKADOT",
+          "current_net": 342834000,
+          "prior_net": 19230000,
+          "contribution": 323604000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "20685",
+          "product": "DOORMAT RED RETROSPOT",
+          "current_net": 639926000,
+          "prior_net": 326867000,
+          "contribution": 313059000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "85220",
+          "product": "SMALL FAIRY CAKE FRIDGE MAGNETS",
+          "current_net": 283680000,
+          "prior_net": 3960000,
+          "contribution": 279720000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "22385",
+          "product": "JUMBO BAG SPACEBOY DESIGN",
+          "current_net": 238792000,
+          "prior_net": 2730000,
+          "contribution": 236062000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "21166",
+          "product": "COOK WITH WINE METAL SIGN",
+          "current_net": 230894000,
+          "prior_net": 8731000,
+          "contribution": 222163000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "20748",
+          "product": "KENSINGTON COFFEE SET",
+          "current_net": 76291000,
+          "prior_net": 1024860000,
+          "contribution": -948569000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "ADJUST",
+          "product": "Adjustment by john on 26/01/2010 16",
+          "current_net": 0,
+          "prior_net": 756629000,
+          "contribution": -756629000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 797517000,
+          "prior_net": 1463789000,
+          "contribution": -666272000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 644350000,
+          "prior_net": 1134051000,
+          "contribution": -489701000
+        },
+        {
+          "month": "2010-02",
+          "previous_month": "2010-01",
+          "stock": "20679",
+          "product": "EDWARDIAN PARASOL RED",
+          "current_net": 69888000,
+          "prior_net": 460739000,
+          "contribution": -390851000
+        }
+      ],
+      "total": -9158770600
+    },
+    "2010-03": {
+      "up": [
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "84467",
+          "product": "ENGLISH ROSE DESIGN QUILTED THROW",
+          "current_net": 1078730000,
+          "prior_net": 15640000,
+          "contribution": 1063090000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 983961000,
+          "prior_net": 0,
+          "contribution": 983961000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 1412230000,
+          "prior_net": 797517000,
+          "contribution": 614713000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "22457",
+          "product": "NATURAL SLATE HEART CHALKBOARD",
+          "current_net": 360664000,
+          "prior_net": 0,
+          "contribution": 360664000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 999376000,
+          "prior_net": 644350000,
+          "contribution": 355026000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "20685",
+          "product": "DOORMAT RED RETROSPOT",
+          "current_net": 312864000,
+          "prior_net": 639926000,
+          "contribution": -327062000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "85220",
+          "product": "SMALL FAIRY CAKE FRIDGE MAGNETS",
+          "current_net": 0,
+          "prior_net": 283680000,
+          "contribution": -283680000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "37410",
+          "product": "BLACK AND WHITE PAISLEY FLOWER MUG",
+          "current_net": 5476000,
+          "prior_net": 202253000,
+          "contribution": -196777000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "21524",
+          "product": "DOORMAT SPOTTY HOME SWEET HOME",
+          "current_net": 229578000,
+          "prior_net": 407329000,
+          "contribution": -177751000
+        },
+        {
+          "month": "2010-03",
+          "previous_month": "2010-02",
+          "stock": "48194",
+          "product": "DOORMAT HEARTS",
+          "current_net": 210334000,
+          "prior_net": 359787000,
+          "contribution": -149453000
+        }
+      ],
+      "total": 23235544500
+    },
+    "2010-04": {
+      "up": [
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 1420819000,
+          "prior_net": 983961000,
+          "contribution": 436858000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "22605",
+          "product": "WOODEN CROQUET GARDEN SET",
+          "current_net": 277996000,
+          "prior_net": 0,
+          "contribution": 277996000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "82482",
+          "product": "WOODEN PICTURE FRAME WHITE FINISH",
+          "current_net": 276413000,
+          "prior_net": -255000,
+          "contribution": 276668000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "21621",
+          "product": "VINTAGE UNION JACK BUNTING",
+          "current_net": 442219000,
+          "prior_net": 198038000,
+          "contribution": 244181000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "22607",
+          "product": "WOODEN ROUNDERS GARDEN SET",
+          "current_net": 240132000,
+          "prior_net": 0,
+          "contribution": 240132000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 478615000,
+          "prior_net": 999376000,
+          "contribution": -520761000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "84467",
+          "product": "ENGLISH ROSE DESIGN QUILTED THROW",
+          "current_net": 608451000,
+          "prior_net": 1078730000,
+          "contribution": -470279000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 997621000,
+          "prior_net": 1412230000,
+          "contribution": -414609000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "79323W",
+          "product": "WHITE CHERRY LIGHTS",
+          "current_net": 82105000,
+          "prior_net": 413416000,
+          "contribution": -331311000
+        },
+        {
+          "month": "2010-04",
+          "previous_month": "2010-03",
+          "stock": "22457",
+          "product": "NATURAL SLATE HEART CHALKBOARD",
+          "current_net": 75124000,
+          "prior_net": 360664000,
+          "contribution": -285540000
+        }
+      ],
+      "total": -12172618900
+    },
+    "2010-05": {
+      "up": [
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 964896000,
+          "prior_net": 701885000,
+          "contribution": 263011000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "21985",
+          "product": "PACK OF 12 HEARTS DESIGN TISSUES",
+          "current_net": 267982000,
+          "prior_net": 15210000,
+          "contribution": 252772000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "20685",
+          "product": "DOORMAT RED RETROSPOT",
+          "current_net": 309430000,
+          "prior_net": 74905000,
+          "contribution": 234525000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "21982",
+          "product": "PACK OF 12 SUKI TISSUES",
+          "current_net": 268460000,
+          "prior_net": 37669000,
+          "contribution": 230791000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "22606",
+          "product": "WOODEN SKITTLES GARDEN SET",
+          "current_net": 408580000,
+          "prior_net": 182779000,
+          "contribution": 225801000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 617938000,
+          "prior_net": 1420819000,
+          "contribution": -802881000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "84467",
+          "product": "ENGLISH ROSE DESIGN QUILTED THROW",
+          "current_net": 3995000,
+          "prior_net": 608451000,
+          "contribution": -604456000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "79323W",
+          "product": "WHITE CHERRY LIGHTS",
+          "current_net": -407820000,
+          "prior_net": 82105000,
+          "contribution": -489925000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "79323P",
+          "product": "PINK CHERRY LIGHTS",
+          "current_net": -233200000,
+          "prior_net": 140187000,
+          "contribution": -373387000
+        },
+        {
+          "month": "2010-05",
+          "previous_month": "2010-04",
+          "stock": "21181",
+          "product": "PLEASE ONE PERSON METAL SIGN",
+          "current_net": 472000,
+          "prior_net": 298207000,
+          "contribution": -297735000
+        }
+      ],
+      "total": -2825033200
+    },
+    "2010-06": {
+      "up": [
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 1651738000,
+          "prior_net": 617938000,
+          "contribution": 1033800000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "15044A",
+          "product": "PINK PAPER PARASOL",
+          "current_net": 946626000,
+          "prior_net": 27953000,
+          "contribution": 918673000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "21929",
+          "product": "JUMBO BAG PINK VINTAGE PAISLEY",
+          "current_net": 348021000,
+          "prior_net": 0,
+          "contribution": 348021000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "79323W",
+          "product": "WHITE CHERRY LIGHTS",
+          "current_net": -134735000,
+          "prior_net": -407820000,
+          "contribution": 273085000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "21843",
+          "product": "RED RETROSPOT CAKE STAND",
+          "current_net": 522115000,
+          "prior_net": 268794000,
+          "contribution": 253321000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 618134000,
+          "prior_net": 964896000,
+          "contribution": -346762000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "22606",
+          "product": "WOODEN SKITTLES GARDEN SET",
+          "current_net": 142320000,
+          "prior_net": 408580000,
+          "contribution": -266260000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "21985",
+          "product": "PACK OF 12 HEARTS DESIGN TISSUES",
+          "current_net": 11440000,
+          "prior_net": 267982000,
+          "contribution": -256542000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "21982",
+          "product": "PACK OF 12 SUKI TISSUES",
+          "current_net": 32926000,
+          "prior_net": 268460000,
+          "contribution": -235534000
+        },
+        {
+          "month": "2010-06",
+          "previous_month": "2010-05",
+          "stock": "84509F",
+          "product": "SET OF 4 NEW ENGLAND PLACEMATS",
+          "current_net": 5250000,
+          "prior_net": 205425000,
+          "contribution": -200175000
+        }
+      ],
+      "total": 6380315000
+    },
+    "2010-07": {
+      "up": [
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "84078A",
+          "product": "SET/4 WHITE RETRO STORAGE CUBES",
+          "current_net": 475990000,
+          "prior_net": 75890000,
+          "contribution": 400100000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "48188",
+          "product": "DOORMAT WELCOME PUPPIES",
+          "current_net": 377494000,
+          "prior_net": 43377000,
+          "contribution": 334117000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "22655",
+          "product": "VINTAGE RED KITCHEN CABINET",
+          "current_net": 236000000,
+          "prior_net": 0,
+          "contribution": 236000000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "22138",
+          "product": "BAKING SET 9 PIECE RETROSPOT",
+          "current_net": 283431000,
+          "prior_net": 65835000,
+          "contribution": 217596000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "84879",
+          "product": "ASSORTED COLOUR BIRD ORNAMENT",
+          "current_net": 503205000,
+          "prior_net": 305214000,
+          "contribution": 197991000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "15044A",
+          "product": "PINK PAPER PARASOL",
+          "current_net": 29275000,
+          "prior_net": 946626000,
+          "contribution": -917351000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": -776252000,
+          "prior_net": 8429000,
+          "contribution": -784681000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 118711000,
+          "prior_net": 618134000,
+          "contribution": -499423000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "20726",
+          "product": "LUNCH BAG WOODLAND",
+          "current_net": 138059000,
+          "prior_net": 391401000,
+          "contribution": -253342000
+        },
+        {
+          "month": "2010-07",
+          "previous_month": "2010-06",
+          "stock": "21621",
+          "product": "VINTAGE UNION JACK BUNTING",
+          "current_net": 321272000,
+          "prior_net": 563001000,
+          "contribution": -241729000
+        }
+      ],
+      "total": -5970839000
+    },
+    "2010-08": {
+      "up": [
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": 369258000,
+          "prior_net": -776252000,
+          "contribution": 1145510000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 550211000,
+          "prior_net": 118711000,
+          "contribution": 431500000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "22189",
+          "product": "CREAM HEART CARD HOLDER",
+          "current_net": 400104000,
+          "prior_net": 91905000,
+          "contribution": 308199000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "21181",
+          "product": "PLEASE ONE PERSON METAL SIGN",
+          "current_net": 297781000,
+          "prior_net": 0,
+          "contribution": 297781000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "20725",
+          "product": "LUNCH BAG RED RETROSPOT",
+          "current_net": 543953000,
+          "prior_net": 287659000,
+          "contribution": 256294000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "BANK CHARGES",
+          "product": "Bank Charges",
+          "current_net": -1926838000,
+          "prior_net": -55966000,
+          "contribution": -1870872000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 1300338000,
+          "prior_net": 1738643000,
+          "contribution": -438305000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "84078A",
+          "product": "SET/4 WHITE RETRO STORAGE CUBES",
+          "current_net": 119500000,
+          "prior_net": 475990000,
+          "contribution": -356490000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "85099B",
+          "product": "JUMBO BAG RED RETROSPOT",
+          "current_net": 378601000,
+          "prior_net": 667630000,
+          "contribution": -289029000
+        },
+        {
+          "month": "2010-08",
+          "previous_month": "2010-07",
+          "stock": "37503",
+          "product": "TEA TIME CAKE STAND IN GIFT BOX",
+          "current_net": 1155000,
+          "prior_net": 289883000,
+          "contribution": -288728000
+        }
+      ],
+      "total": 3740891000
+    },
+    "2010-09": {
+      "up": [
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "BANK CHARGES",
+          "product": "Bank Charges",
+          "current_net": -36181000,
+          "prior_net": -1926838000,
+          "contribution": 1890657000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 2364392000,
+          "prior_net": 1300338000,
+          "contribution": 1064054000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "85099B",
+          "product": "JUMBO BAG RED RETROSPOT",
+          "current_net": 1358933000,
+          "prior_net": 378601000,
+          "contribution": 980332000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "84347",
+          "product": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+          "current_net": 508363000,
+          "prior_net": 47973000,
+          "contribution": 460390000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "21622",
+          "product": "VINTAGE UNION JACK CUSHION COVER",
+          "current_net": 503363000,
+          "prior_net": 56541000,
+          "contribution": 446822000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "21523",
+          "product": "DOORMAT FANCY FONT HOME SWEET HOME",
+          "current_net": 65662000,
+          "prior_net": 456314000,
+          "contribution": -390652000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": -17538000,
+          "prior_net": 369258000,
+          "contribution": -386796000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "48187",
+          "product": "DOORMAT NEW ENGLAND",
+          "current_net": 2493000,
+          "prior_net": 282070000,
+          "contribution": -279577000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "48194",
+          "product": "DOORMAT HEARTS",
+          "current_net": 147326000,
+          "prior_net": 404745000,
+          "contribution": -257419000
+        },
+        {
+          "month": "2010-09",
+          "previous_month": "2010-08",
+          "stock": "22328",
+          "product": "ROUND SNACK BOXES SET OF 4 FRUITS",
+          "current_net": 47479000,
+          "prior_net": 281024000,
+          "contribution": -233545000
+        }
+      ],
+      "total": 19633157100
+    },
+    "2010-10": {
+      "up": [
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "22086",
+          "product": "PAPER CHAIN KIT 50'S CHRISTMAS",
+          "current_net": 841842000,
+          "prior_net": 301212000,
+          "contribution": 540630000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "21137",
+          "product": "BLACK RECORD COVER FRAME",
+          "current_net": 526674000,
+          "prior_net": 130056000,
+          "contribution": 396618000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "22790",
+          "product": "MIRROR, ARCHED GEORGIAN",
+          "current_net": 388400000,
+          "prior_net": 0,
+          "contribution": 388400000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "84347",
+          "product": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+          "current_net": 890553000,
+          "prior_net": 508363000,
+          "contribution": 382190000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "21623",
+          "product": "VINTAGE UNION JACK MEMOBOARD",
+          "current_net": 438311000,
+          "prior_net": 88810000,
+          "contribution": 349501000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "21621",
+          "product": "VINTAGE UNION JACK BUNTING",
+          "current_net": 90940000,
+          "prior_net": 650578000,
+          "contribution": -559638000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "85099B",
+          "product": "JUMBO BAG RED RETROSPOT",
+          "current_net": 815854000,
+          "prior_net": 1358933000,
+          "contribution": -543079000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "21622",
+          "product": "VINTAGE UNION JACK CUSHION COVER",
+          "current_net": 64065000,
+          "prior_net": 503363000,
+          "contribution": -439298000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "21624",
+          "product": "VINTAGE UNION JACK DOORSTOP",
+          "current_net": 37485000,
+          "prior_net": 403451000,
+          "contribution": -365966000
+        },
+        {
+          "month": "2010-10",
+          "previous_month": "2010-09",
+          "stock": "21906",
+          "product": "PHARMACIE FIRST AID TIN",
+          "current_net": 64454000,
+          "prior_net": 413516000,
+          "contribution": -349062000
+        }
+      ],
+      "total": 22950551900
+    },
+    "2010-11": {
+      "up": [
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "22086",
+          "product": "PAPER CHAIN KIT 50'S CHRISTMAS",
+          "current_net": 2829756000,
+          "prior_net": 841842000,
+          "contribution": 1987914000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "84347",
+          "product": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+          "current_net": 2569054000,
+          "prior_net": 890553000,
+          "contribution": 1678501000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 1528992000,
+          "prior_net": 707143000,
+          "contribution": 821849000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "22910",
+          "product": "PAPER CHAIN KIT VINTAGE CHRISTMAS",
+          "current_net": 1425557000,
+          "prior_net": 696727000,
+          "contribution": 728830000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "22865",
+          "product": "HAND WARMER OWL DESIGN",
+          "current_net": 958498000,
+          "prior_net": 268902000,
+          "contribution": 689596000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "22790",
+          "product": "MIRROR, ARCHED GEORGIAN",
+          "current_net": 0,
+          "prior_net": 388400000,
+          "contribution": -388400000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "21735",
+          "product": "TWO DOOR CURIO CABINET",
+          "current_net": -65538000,
+          "prior_net": 251136000,
+          "contribution": -316674000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "22763",
+          "product": "KEY CABINET MA CAMPAGNE",
+          "current_net": 18905000,
+          "prior_net": 304532000,
+          "contribution": -285627000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "35832",
+          "product": "WOOLLY HAT SOCK GLOVE ADVENT STRING",
+          "current_net": 43958000,
+          "prior_net": 262972000,
+          "contribution": -219014000
+        },
+        {
+          "month": "2010-11",
+          "previous_month": "2010-10",
+          "stock": "22769",
+          "product": "CHALKBOARD KITCHEN ORGANISER",
+          "current_net": 47741000,
+          "prior_net": 263807000,
+          "contribution": -216066000
+        }
+      ],
+      "total": 33608572200
+    },
+    "2010-12": {
+      "up": [
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 2467119000,
+          "prior_net": 1528992000,
+          "contribution": 938127000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "22188",
+          "product": "BLACK HEART CARD HOLDER",
+          "current_net": 520014000,
+          "prior_net": 213328000,
+          "contribution": 306686000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "84029E",
+          "product": "RED WOOLLY HOTTIE WHITE HEART.",
+          "current_net": 929173000,
+          "prior_net": 636555000,
+          "contribution": 292618000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "21479",
+          "product": "WHITE SKULL HOT WATER BOTTLE",
+          "current_net": 822498000,
+          "prior_net": 544012000,
+          "contribution": 278486000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "22328",
+          "product": "ROUND SNACK BOXES SET OF 4 FRUITS",
+          "current_net": 482320000,
+          "prior_net": 219703000,
+          "contribution": 262617000
+        }
+      ],
+      "down": [
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": -3924308000,
+          "prior_net": 0,
+          "contribution": -3924308000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "84347",
+          "product": "ROTATING SILVER ANGELS T-LIGHT HLDR",
+          "current_net": 642826000,
+          "prior_net": 2569054000,
+          "contribution": -1926228000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "22086",
+          "product": "PAPER CHAIN KIT 50'S CHRISTMAS",
+          "current_net": 918745000,
+          "prior_net": 2829756000,
+          "contribution": -1911011000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "84879",
+          "product": "ASSORTED COLOUR BIRD ORNAMENT",
+          "current_net": 397235000,
+          "prior_net": 1402985000,
+          "contribution": -1005750000
+        },
+        {
+          "month": "2010-12",
+          "previous_month": "2010-11",
+          "stock": "22910",
+          "product": "PAPER CHAIN KIT VINTAGE CHRISTMAS",
+          "current_net": 497217000,
+          "prior_net": 1425557000,
+          "contribution": -928340000
+        }
+      ],
+      "total": -66997359200
+    },
+    "2011-01": {
+      "up": [
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "21108",
+          "product": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+          "current_net": 687041000,
+          "prior_net": 67044000,
+          "contribution": 619997000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": -3334173000,
+          "prior_net": -3924308000,
+          "contribution": 590135000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 1522730000,
+          "prior_net": 987782000,
+          "contribution": 534948000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "48185",
+          "product": "DOORMAT FAIRY CAKE",
+          "current_net": 520623000,
+          "prior_net": 58959000,
+          "contribution": 461664000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "22720",
+          "product": "SET OF 3 CAKE TINS PANTRY DESIGN",
+          "current_net": 513377000,
+          "prior_net": 138787000,
+          "contribution": 374590000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 1174250000,
+          "prior_net": 2672216000,
+          "contribution": -1497966000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 1391853000,
+          "prior_net": 2467119000,
+          "contribution": -1075266000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "84029E",
+          "product": "RED WOOLLY HOTTIE WHITE HEART.",
+          "current_net": 14064000,
+          "prior_net": 929173000,
+          "contribution": -915109000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "22086",
+          "product": "PAPER CHAIN KIT 50'S CHRISTMAS",
+          "current_net": 14332000,
+          "prior_net": 918745000,
+          "contribution": -904413000
+        },
+        {
+          "month": "2011-01",
+          "previous_month": "2010-12",
+          "stock": "22114",
+          "product": "HOT WATER BOTTLE TEA AND SYMPATHY",
+          "current_net": 2240000,
+          "prior_net": 808736000,
+          "contribution": -806496000
+        }
+      ],
+      "total": -18827505000
+    },
+    "2011-02": {
+      "up": [
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": -1083405000,
+          "prior_net": -3334173000,
+          "contribution": 2250768000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "21623",
+          "product": "VINTAGE UNION JACK MEMOBOARD",
+          "current_net": 681039000,
+          "prior_net": 24053000,
+          "contribution": 656986000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "22053",
+          "product": "EMPIRE DESIGN ROSETTE",
+          "current_net": 330292000,
+          "prior_net": 625000,
+          "contribution": 329667000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "22693",
+          "product": "GROW A FLYTRAP OR SUNFLOWER IN TIN",
+          "current_net": 379911000,
+          "prior_net": 55176000,
+          "contribution": 324735000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "22189",
+          "product": "CREAM HEART CARD HOLDER",
+          "current_net": 301378000,
+          "prior_net": 71114000,
+          "contribution": 230264000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 513206000,
+          "prior_net": 1522730000,
+          "contribution": -1009524000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "21108",
+          "product": "FAIRY CAKE FLANNEL ASSORTED COLOUR",
+          "current_net": 12921000,
+          "prior_net": 687041000,
+          "contribution": -674120000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "48185",
+          "product": "DOORMAT FAIRY CAKE",
+          "current_net": 81788000,
+          "prior_net": 520623000,
+          "contribution": -438835000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 1006057000,
+          "prior_net": 1391853000,
+          "contribution": -385796000
+        },
+        {
+          "month": "2011-02",
+          "previous_month": "2011-01",
+          "stock": "21733",
+          "product": "RED HANGING HEART T-LIGHT HOLDER",
+          "current_net": 101194000,
+          "prior_net": 479072000,
+          "contribution": -377878000
+        }
+      ],
+      "total": -6142215000
+    },
+    "2011-03": {
+      "up": [
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 1681785000,
+          "prior_net": 1049154000,
+          "contribution": 632631000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 909827000,
+          "prior_net": 434790000,
+          "contribution": 475037000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "85099B",
+          "product": "JUMBO BAG RED RETROSPOT",
+          "current_net": 1011643000,
+          "prior_net": 561364000,
+          "contribution": 450279000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "85099F",
+          "product": "JUMBO BAG STRAWBERRY",
+          "current_net": 585380000,
+          "prior_net": 183162000,
+          "contribution": 402218000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "22386",
+          "product": "JUMBO BAG PINK POLKADOT",
+          "current_net": 507929000,
+          "prior_net": 197283000,
+          "contribution": 310646000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "21623",
+          "product": "VINTAGE UNION JACK MEMOBOARD",
+          "current_net": 274122000,
+          "prior_net": 681039000,
+          "contribution": -406917000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "22053",
+          "product": "EMPIRE DESIGN ROSETTE",
+          "current_net": 18850000,
+          "prior_net": 330292000,
+          "contribution": -311442000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "22693",
+          "product": "GROW A FLYTRAP OR SUNFLOWER IN TIN",
+          "current_net": 103389000,
+          "prior_net": 379911000,
+          "contribution": -276522000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "22470",
+          "product": "HEART OF WICKER LARGE",
+          "current_net": 27697000,
+          "prior_net": 208564000,
+          "contribution": -180867000
+        },
+        {
+          "month": "2011-03",
+          "previous_month": "2011-02",
+          "stock": "21137",
+          "product": "BLACK RECORD COVER FRAME",
+          "current_net": 107399000,
+          "prior_net": 236918000,
+          "contribution": -129519000
+        }
+      ],
+      "total": 18498757000
+    },
+    "2011-04": {
+      "up": [
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": 0,
+          "prior_net": -1091808000,
+          "contribution": 1091808000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": 145279000,
+          "prior_net": -339654000,
+          "contribution": 484933000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "47556B",
+          "product": "TEA TIME TEA TOWELS",
+          "current_net": 273000000,
+          "prior_net": 0,
+          "contribution": 273000000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "23199",
+          "product": "JUMBO BAG APPLES",
+          "current_net": 232501000,
+          "prior_net": 0,
+          "contribution": 232501000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "23206",
+          "product": "LUNCH BAG APPLE DESIGN",
+          "current_net": 208847000,
+          "prior_net": 0,
+          "contribution": 208847000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "85099B",
+          "product": "JUMBO BAG RED RETROSPOT",
+          "current_net": 487092000,
+          "prior_net": 1011643000,
+          "contribution": -524551000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "85099F",
+          "product": "JUMBO BAG STRAWBERRY",
+          "current_net": 103271000,
+          "prior_net": 585380000,
+          "contribution": -482109000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "21621",
+          "product": "VINTAGE UNION JACK BUNTING",
+          "current_net": 49225000,
+          "prior_net": 521433000,
+          "contribution": -472208000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 753538000,
+          "prior_net": 1182971000,
+          "contribution": -429433000
+        },
+        {
+          "month": "2011-04",
+          "previous_month": "2011-03",
+          "stock": "22386",
+          "product": "JUMBO BAG PINK POLKADOT",
+          "current_net": 129696000,
+          "prior_net": 507929000,
+          "contribution": -378233000
+        }
+      ],
+      "total": -18964613900
+    },
+    "2011-05": {
+      "up": [
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 1909330000,
+          "prior_net": 1032387000,
+          "contribution": 876943000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "23298",
+          "product": "SPOTTY BUNTING",
+          "current_net": 811892000,
+          "prior_net": 0,
+          "contribution": 811892000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 1137107000,
+          "prior_net": 507859000,
+          "contribution": 629248000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "23284",
+          "product": "DOORMAT KEEP CALM AND COME IN",
+          "current_net": 595226000,
+          "prior_net": 22320000,
+          "contribution": 572906000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "23203",
+          "product": "JUMBO BAG VINTAGE DOILY",
+          "current_net": 469108000,
+          "prior_net": 0,
+          "contribution": 469108000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": -1288323000,
+          "prior_net": 0,
+          "contribution": -1288323000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": -1057836000,
+          "prior_net": 145279000,
+          "contribution": -1203115000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "22084",
+          "product": "PAPER CHAIN KIT EMPIRE",
+          "current_net": 49288000,
+          "prior_net": 661951000,
+          "contribution": -612663000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "22499",
+          "product": "WOODEN UNION JACK BUNTING",
+          "current_net": 69998000,
+          "prior_net": 417318000,
+          "contribution": -347320000
+        },
+        {
+          "month": "2011-05",
+          "previous_month": "2011-04",
+          "stock": "47556B",
+          "product": "TEA TIME TEA TOWELS",
+          "current_net": 0,
+          "prior_net": 273000000,
+          "contribution": -273000000
+        }
+      ],
+      "total": 22972625900
+    },
+    "2011-06": {
+      "up": [
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "22502",
+          "product": "PICNIC BASKET WICKER SMALL",
+          "current_net": 4029810000,
+          "prior_net": 288780000,
+          "contribution": 3741030000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "23245",
+          "product": "SET OF 3 REGENCY CAKE TINS",
+          "current_net": 650952000,
+          "prior_net": 0,
+          "contribution": 650952000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "21137",
+          "product": "BLACK RECORD COVER FRAME",
+          "current_net": 574452000,
+          "prior_net": 177076000,
+          "contribution": 397376000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "23173",
+          "product": "REGENCY TEAPOT ROSES",
+          "current_net": 735369000,
+          "prior_net": 352399000,
+          "contribution": 382970000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "22720",
+          "product": "SET OF 3 CAKE TINS PANTRY DESIGN",
+          "current_net": 364967000,
+          "prior_net": 10256000,
+          "contribution": 354711000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": -3949054000,
+          "prior_net": -1057836000,
+          "contribution": -2891218000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 465128000,
+          "prior_net": 1137107000,
+          "contribution": -671979000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 1245217000,
+          "prior_net": 1909330000,
+          "contribution": -664113000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "22197",
+          "product": "SMALL POPCORN HOLDER",
+          "current_net": 170475000,
+          "prior_net": 514398000,
+          "contribution": -343923000
+        },
+        {
+          "month": "2011-06",
+          "previous_month": "2011-05",
+          "stock": "22501",
+          "product": "PICNIC BASKET WICKER LARGE",
+          "current_net": 191156000,
+          "prior_net": 526814000,
+          "contribution": -335658000
+        }
+      ],
+      "total": -3211687000
+    },
+    "2011-07": {
+      "up": [
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "M",
+          "product": "Manual",
+          "current_net": -414166000,
+          "prior_net": -3949054000,
+          "contribution": 3534888000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 1372656000,
+          "prior_net": 945364000,
+          "contribution": 427292000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 860058000,
+          "prior_net": 465128000,
+          "contribution": 394930000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "23297",
+          "product": "SET 40 HEART SHAPE PETIT FOUR CASES",
+          "current_net": 308688000,
+          "prior_net": 0,
+          "contribution": 308688000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 1457650000,
+          "prior_net": 1245217000,
+          "contribution": 212433000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "22502",
+          "product": "PICNIC BASKET WICKER SMALL",
+          "current_net": 43866000,
+          "prior_net": 4029810000,
+          "contribution": -3985944000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "21137",
+          "product": "BLACK RECORD COVER FRAME",
+          "current_net": 220483000,
+          "prior_net": 574452000,
+          "contribution": -353969000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "22783",
+          "product": "SET 3 WICKER OVAL BASKETS W LIDS",
+          "current_net": 0,
+          "prior_net": 343947000,
+          "contribution": -343947000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "23084",
+          "product": "RABBIT NIGHT LIGHT",
+          "current_net": 66859000,
+          "prior_net": 328527000,
+          "contribution": -261668000
+        },
+        {
+          "month": "2011-07",
+          "previous_month": "2011-06",
+          "stock": "71477",
+          "product": "COLOUR GLASS. STAR T-LIGHT HOLDER",
+          "current_net": -30383000,
+          "prior_net": 206340000,
+          "contribution": -236723000
+        }
+      ],
+      "total": -982023900
+    },
+    "2011-08": {
+      "up": [
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "B",
+          "product": "Adjust bad debt",
+          "current_net": 1106206000,
+          "prior_net": 0,
+          "contribution": 1106206000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "84879",
+          "product": "ASSORTED COLOUR BIRD ORNAMENT",
+          "current_net": 986704000,
+          "prior_net": 311428000,
+          "contribution": 675276000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "85099B",
+          "product": "JUMBO BAG RED RETROSPOT",
+          "current_net": 1044177000,
+          "prior_net": 624763000,
+          "contribution": 419414000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "23199",
+          "product": "JUMBO BAG APPLES",
+          "current_net": 620489000,
+          "prior_net": 296803000,
+          "contribution": 323686000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "23203",
+          "product": "JUMBO BAG VINTAGE DOILY",
+          "current_net": 747732000,
+          "prior_net": 438078000,
+          "contribution": 309654000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": -2248717000,
+          "prior_net": -1088109000,
+          "contribution": -1160608000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "22423",
+          "product": "REGENCY CAKESTAND 3 TIER",
+          "current_net": 839355000,
+          "prior_net": 1372656000,
+          "contribution": -533301000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 965525000,
+          "prior_net": 1457650000,
+          "contribution": -492125000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "23173",
+          "product": "REGENCY TEAPOT ROSES",
+          "current_net": 156396000,
+          "prior_net": 549353000,
+          "contribution": -392957000
+        },
+        {
+          "month": "2011-08",
+          "previous_month": "2011-07",
+          "stock": "23284",
+          "product": "DOORMAT KEEP CALM AND COME IN",
+          "current_net": 11848000,
+          "prior_net": 387377000,
+          "contribution": -375529000
+        }
+      ],
+      "total": 2335358900
+    },
+    "2011-09": {
+      "up": [
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "AMAZONFEE",
+          "product": "AMAZON FEE",
+          "current_net": -1295011000,
+          "prior_net": -2248717000,
+          "contribution": 953706000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "23243",
+          "product": "SET OF TEA COFFEE SUGAR TINS PANTRY",
+          "current_net": 997151000,
+          "prior_net": 329037000,
+          "contribution": 668114000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "23355",
+          "product": "HOT WATER BOTTLE KEEP CALM",
+          "current_net": 622979000,
+          "prior_net": 59352000,
+          "contribution": 563627000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "21181",
+          "product": "PLEASE ONE PERSON METAL SIGN",
+          "current_net": 505419000,
+          "prior_net": 210000,
+          "contribution": 505209000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "22114",
+          "product": "HOT WATER BOTTLE TEA AND SYMPATHY",
+          "current_net": 534613000,
+          "prior_net": 36894000,
+          "contribution": 497719000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "B",
+          "product": "Adjust bad debt",
+          "current_net": 0,
+          "prior_net": 1106206000,
+          "contribution": -1106206000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "84879",
+          "product": "ASSORTED COLOUR BIRD ORNAMENT",
+          "current_net": 496648000,
+          "prior_net": 986704000,
+          "contribution": -490056000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "47566",
+          "product": "PARTY BUNTING",
+          "current_net": 611370000,
+          "prior_net": 965525000,
+          "contribution": -354155000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "23199",
+          "product": "JUMBO BAG APPLES",
+          "current_net": 306949000,
+          "prior_net": 620489000,
+          "contribution": -313540000
+        },
+        {
+          "month": "2011-09",
+          "previous_month": "2011-08",
+          "stock": "23084",
+          "product": "RABBIT NIGHT LIGHT",
+          "current_net": 69978000,
+          "prior_net": 353357000,
+          "contribution": -283379000
+        }
+      ],
+      "total": 31408610200
+    },
+    "2011-10": {
+      "up": [
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "23084",
+          "product": "RABBIT NIGHT LIGHT",
+          "current_net": 1224971000,
+          "prior_net": 69978000,
+          "contribution": 1154993000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "23284",
+          "product": "DOORMAT KEEP CALM AND COME IN",
+          "current_net": 1010370000,
+          "prior_net": 401898000,
+          "contribution": 608472000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "23534",
+          "product": "WALL ART STOP FOR TEA",
+          "current_net": 427039000,
+          "prior_net": 0,
+          "contribution": 427039000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "23541",
+          "product": "WALL ART CLASSIC PUDDINGS",
+          "current_net": 423620000,
+          "prior_net": 0,
+          "contribution": 423620000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "23556",
+          "product": "LANDMARK FRAME COVENT GARDEN",
+          "current_net": 422920000,
+          "prior_net": 0,
+          "contribution": 422920000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "23243",
+          "product": "SET OF TEA COFFEE SUGAR TINS PANTRY",
+          "current_net": 130082000,
+          "prior_net": 997151000,
+          "contribution": -867069000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "22720",
+          "product": "SET OF 3 CAKE TINS PANTRY DESIGN",
+          "current_net": 298332000,
+          "prior_net": 625048000,
+          "contribution": -326716000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "48187",
+          "product": "DOORMAT NEW ENGLAND",
+          "current_net": 104350000,
+          "prior_net": 428017000,
+          "contribution": -323667000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "22111",
+          "product": "SCOTTIE DOG HOT WATER BOTTLE",
+          "current_net": 212847000,
+          "prior_net": 529756000,
+          "contribution": -316909000
+        },
+        {
+          "month": "2011-10",
+          "previous_month": "2011-09",
+          "stock": "48138",
+          "product": "DOORMAT UNION FLAG",
+          "current_net": 134396000,
+          "prior_net": 447651000,
+          "contribution": -313255000
+        }
+      ],
+      "total": 5177154800
+    },
+    "2011-11": {
+      "up": [
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "23084",
+          "product": "RABBIT NIGHT LIGHT",
+          "current_net": 3434377000,
+          "prior_net": 1224971000,
+          "contribution": 2209406000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "22086",
+          "product": "PAPER CHAIN KIT 50'S CHRISTMAS",
+          "current_net": 2885354000,
+          "prior_net": 941054000,
+          "contribution": 1944300000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "DOT",
+          "product": "DOTCOM POSTAGE",
+          "current_net": 3690540000,
+          "prior_net": 1795513000,
+          "contribution": 1895027000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "85123A",
+          "product": "WHITE HANGING HEART T-LIGHT HOLDER",
+          "current_net": 1433932000,
+          "prior_net": 483044000,
+          "contribution": 950888000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "22197",
+          "product": "SMALL POPCORN HOLDER",
+          "current_net": 1396194000,
+          "prior_net": 477537000,
+          "contribution": 918657000
+        }
+      ],
+      "down": [
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "23284",
+          "product": "DOORMAT KEEP CALM AND COME IN",
+          "current_net": 588003000,
+          "prior_net": 1010370000,
+          "contribution": -422367000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "23554",
+          "product": "LANDMARK FRAME OXFORD STREET",
+          "current_net": 48281000,
+          "prior_net": 421026000,
+          "contribution": -372745000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "23555",
+          "product": "LANDMARK FRAME NOTTING HILL",
+          "current_net": 47031000,
+          "prior_net": 417280000,
+          "contribution": -370249000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "23556",
+          "product": "LANDMARK FRAME COVENT GARDEN",
+          "current_net": 53285000,
+          "prior_net": 422920000,
+          "contribution": -369635000
+        },
+        {
+          "month": "2011-11",
+          "previous_month": "2011-10",
+          "stock": "23558",
+          "product": "LANDMARK FRAME LONDON BRIDGE",
+          "current_net": 52492000,
+          "prior_net": 405399000,
+          "contribution": -352907000
+        }
+      ],
+      "total": 38677757000
+    }
+  },
+  "overview": {
+    "known_customers": 5850,
+    "repeat_customers": 4200,
+    "repeat_rate": 0.717948717948718
+  },
+  "audit": {
+    "source_rows": 1067371,
+    "removed_duplicates": 34147,
+    "outside_window": 25193,
+    "analyzed_rows": 1001823,
+    "first_timestamp": "2009-12-01 07:45:00",
+    "last_timestamp": "2011-12-09 12:50:00",
+    "unidentified_sales": 298085629000,
+    "invoices_spanning_months": 0
+  },
+  "quality": [
+    {
+      "rule": "adjustment",
+      "source_rows": 19493,
+      "missing_customer": 749
+    },
+    {
+      "rule": "cancel_positive",
+      "source_rows": 1,
+      "missing_customer": 1
+    },
+    {
+      "rule": "non_positive_value",
+      "source_rows": 6207,
+      "missing_customer": 6136
+    },
+    {
+      "rule": "sale",
+      "source_rows": 1041670,
+      "missing_customer": 236121
+    }
+  ],
+  "sheets": {
+    "Year 2009-2010": 525461,
+    "Year 2010-2011": 541910
+  },
+  "sha256": "572e36277c2390fbfde10664750731e0a86f55e33470d91919085f0408e67bfb",
+  "scale": 100000
+}

@@ -1,0 +1,7 @@
+borough,total_requests,closed_within_7_days,closed_after_7_days,missing_closed_date,invalid_closed_date,pct_closed_within_7_days
+MANHATTAN,12069,11157,569,342,1,92.44
+STATEN ISLAND,7248,6455,567,226,0,89.06
+BROOKLYN,18507,15941,2342,221,3,86.13
+QUEENS,25893,22224,1881,1781,7,85.83
+BRONX,7310,6151,985,172,2,84.15
+UNSPECIFIED,131,108,16,7,0,82.44

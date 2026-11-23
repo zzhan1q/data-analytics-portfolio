@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Online Retail II — анализ продаж</title>
+<style>
+:root{color-scheme:light;--bg:#f1f5f2;--paper:#fff;--ink:#192e27;--muted:#4d655b;--line:#dbe5df;--green:#116247;--pale:#e5f1e9;--red:#9e3b2f;font:16px 'Segoe UI',Arial,sans-serif}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink)}main{max-width:1320px;margin:auto;padding:29px clamp(15px,4vw,54px) 30px}header{display:flex;align-items:end;justify-content:space-between;gap:14px;border-bottom:1px solid var(--line);padding-bottom:22px}h1,h2,p{margin:0}h1{font-size:clamp(27px,4.5vw,43px);letter-spacing:-.045em;line-height:1.1}h2{font-size:20px;letter-spacing:-.02em}.tag{font-size:12px;text-transform:uppercase;letter-spacing:.16em;font-weight:700;color:var(--green);margin-bottom:9px}.sub{color:var(--muted);font-size:14px;margin-top:7px;line-height:1.5}label{display:block;font-size:13px;color:var(--muted);font-weight:650}select{display:block;margin-top:5px;background:white;border:1px solid #a9bcb1;border-radius:6px;padding:7px 10px;min-height:44px;font:inherit;color:var(--ink);width:100%}:focus-visible{outline:2px solid var(--green);outline-offset:3px}.metrics{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:17px 0;gap:1px;background:var(--line);border:1px solid var(--line);border-radius:8px;overflow:hidden}.metric{background:var(--paper);padding:14px 16px}.metric span,.metric small{display:block;color:var(--muted);font-size:12px}.metric strong{display:block;font:700 clamp(19px,2.55vw,32px)/1.23 'Segoe UI',Arial,sans-serif;letter-spacing:-.035em;font-variant-numeric:tabular-nums;margin:4px 0}.positive{color:var(--green)}.negative{color:var(--red)}.panel{background:var(--paper);border:1px solid var(--line);border-radius:8px;padding:16px 18px;margin-bottom:14px}.panelhead{display:flex;justify-content:space-between;align-items:center;gap:12px;margin-bottom:8px}.chart{display:block;width:100%;height:220px;overflow:visible}.axis{stroke:var(--line)}.chart text{fill:var(--muted);font:12px 'Segoe UI',Arial,sans-serif}.series{fill:none;stroke:var(--green);stroke-width:2.75}.focusline{stroke:var(--green);stroke-width:1;stroke-dasharray:4 4}.focuspoint{fill:var(--green);stroke:white;stroke-width:2.5}.lower{display:grid;grid-template-columns:minmax(0,2.15fr) minmax(0,1fr);gap:14px}.drivercols{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:19px}.drivercols h3{font-size:12px;letter-spacing:.05em;margin:6px 0}.driverlist{list-style:none;margin:0;padding:0}.driverlist li{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;border-bottom:1px solid var(--line);gap:8px;padding:7px 0;font-size:12px}.driverlist .name{overflow-wrap:anywhere}.driverlist small{display:block;color:var(--muted);font-size:10px}.driverlist b{font-variant-numeric:tabular-nums;white-space:nowrap}.repeatVal{display:block;font-size:40px;letter-spacing:-.05em;color:var(--green);margin-top:6px}.repeatBar{height:7px;background:var(--pale);border-radius:4px;overflow:hidden;margin:10px 0}.repeatBar span{display:block;background:var(--green);height:100%}.sidebar hr{border:0;border-top:1px solid var(--line);margin:16px 0 8px}.sidebar p{line-height:1.45;font-size:13px}.muted,footer{color:var(--muted)}footer{font-size:12px;line-height:1.5}a{color:var(--green)}.legend{font-size:12px;color:var(--muted);white-space:nowrap}.legend::before{content:'●';color:var(--green);margin-right:6px}
+@media(max-width:760px){.lower{grid-template-columns:1fr;gap:0}.metrics{grid-template-columns:repeat(2,minmax(0,1fr))}.panel{padding:13px}.chart{height:200px}}@media(max-width:500px){header{align-items:start;flex-direction:column}label{width:100%}.drivercols{grid-template-columns:1fr;gap:8px}.legend{white-space:normal}.metric{padding:10px}.chart{height:170px}}
+</style></head>
+<body><main>
+<header><div><p class="tag">Online Retail II / SQL case study</p><h1>Продажи интернет-магазина</h1><p class="sub">Декабрь 2009 — ноябрь 2011 · 24 полных месяца · GBP</p></div><label>Месяц для сравнения<select id="month"></select></label></header>
+<noscript>Для работы фильтров нужно включить JavaScript. Таблицы доступны в папке powerbi.</noscript>
+<section class="metrics" aria-label="Показатели выбранного месяца" aria-live="polite">
+<div class="metric"><span>Нетто-выручка</span><strong id="net">—</strong><small id="moneyDetail"></small></div>
+<div class="metric"><span>Заказы с продажами</span><strong id="orders">—</strong><small>Уникальные номера счетов за месяц</small></div>
+<div class="metric"><span>Средний чек</span><strong id="aov">—</strong><small>Продажи до корректировок ÷ заказы</small></div>
+<div class="metric"><span>Изменение нетто м/м</span><strong id="mom">—</strong><small id="change"></small></div>
+</section>
+<section class="panel"><div class="panelhead"><h2>Динамика нетто-выручки</h2><div class="legend">Выбранный месяц</div></div><svg class="chart" id="trend" role="img" aria-label="Нетто-выручка за 24 полных месяца"></svg></section>
+<div class="lower">
+<section class="panel"><h2>Вклад SKU в изменение выручки</h2><p id="driverSub" class="sub"></p><div class="drivercols" id="driverCols"><div><h3 class="positive">Положительный вклад</h3><ol id="up" class="driverlist"></ol></div><div><h3 class="negative">Отрицательный вклад</h3><ol id="down" class="driverlist"></ol></div></div><p class="sub" id="remainder"></p></section>
+<section class="panel sidebar"><h2>Повторные покупки</h2><p class="sub">Весь период · не зависит от фильтра</p><strong class="repeatVal" id="repeat"></strong><div class="repeatBar" aria-hidden="true"><span id="repeatBar"></span></div><p id="repeatText"></p><hr><p class="muted">В знаменателе только покупатели с ID и хотя бы одним заказом. Это не показатель удержания в фиксированном окне.</p></section>
+</div>
+<footer>Источник: <a href="https://doi.org/10.24432/C5CG6D">UCI Online Retail II</a>. Нетто = положительные продажи − отрицательные корректировки. Корректировки отражены в месяце записи, а не исходного заказа. Неполный декабрь 2011 года исключён.</footer>
+</main>
+<script>
+'use strict';
+const D=__RETAIL_DATA__, $=id=>document.getElementById(id);
+const f=(x,d=0)=>new Intl.NumberFormat('ru-RU',{minimumFractionDigits:d,maximumFractionDigits:d}).format(x);
+const pounds=(x,d=0)=>'£'+f(x/D.scale,d), signed=(x,fmt)=>(x<0?'−':x>0?'+':'')+fmt(Math.abs(x));
+const monthLabel=m=>new Intl.DateTimeFormat('ru-RU',{month:'short',year:'numeric',timeZone:'UTC'}).format(new Date(m+'-01T00:00:00Z')).replace(' г.','');
+const N=D.monthly.length, select=$('month');
+D.monthly.forEach((m,i)=>select.add(new Option(monthLabel(m.month),String(i))));
+select.value=String(N-1);
+function node(parent,tag,attrs={},txt){const e=document.createElementNS('http://www.w3.org/2000/svg',tag); for(const [k,v] of Object.entries(attrs))e.setAttribute(k,v);if(txt!==undefined)e.textContent=txt;parent.append(e);return e;}
+function plot(i){
+  const svg=$('trend'), w=svg.clientWidth, h=svg.clientHeight;
+  if(!w||!h)return;
+  const left=58,right=14,top=14,bottom=h-26;
+  const vals=D.monthly.map(m=>m.net/D.scale), step=250000, max=Math.max(step,Math.ceil(Math.max(...vals)/step)*step), min=Math.min(0,Math.floor(Math.min(...vals)/step)*step);
+  const x=j=>left+j*(w-left-right)/(N-1), y=v=>bottom-(v-min)*(bottom-top)/(max-min);
+  svg.setAttribute('viewBox',`0 0 ${w} ${h}`); svg.replaceChildren();
+  for(let v=min;v<=max;v+=step){const b=y(v);node(svg,'line',{x1:left,x2:w-right,y1:b,y2:b,class:'axis'});node(svg,'text',{x:left-9,y:b+4,'text-anchor':'end'},f(v/1000)+'k');}
+  const every=w<475?6:3;
+  for(let j=0;j<N;j+=every)node(svg,'text',{x:x(j),y:h-5,'text-anchor':'middle'},D.monthly[j].month.slice(2));
+  node(svg,'line',{x1:x(i),x2:x(i),y1:top,y2:bottom,class:'focusline'});
+  node(svg,'polyline',{points:vals.map((v,j)=>`${x(j)},${y(v)}`).join(' '),class:'series'});
+  const dot=node(svg,'circle',{cx:x(i),cy:y(vals[i]),r:6,class:'focuspoint'});
+  node(dot,'title',{},monthLabel(D.monthly[i].month)+' · '+pounds(D.monthly[i].net));
+}
+function list(id,rows){
+  const out=$(id);out.replaceChildren();
+  if(!rows.length){const li=document.createElement('li');li.textContent='Нет позиций';out.append(li);}
+  rows.forEach(p=>{const li=document.createElement('li'),label=document.createElement('span'),code=document.createElement('small'),amount=document.createElement('b');label.className='name';label.textContent=p.product;code.textContent=p.stock;label.append(code);amount.className=p.contribution>0?'positive':'negative';amount.textContent=signed(p.contribution,pounds);li.append(label,amount);out.append(li);});
+}
+function update(){
+  const i=Number(select.value), m=D.monthly[i], d=D.drivers[m.month];
+  $('net').textContent=pounds(m.net);$('orders').textContent=f(m.orders);$('aov').textContent=m.orders?pounds(m.sales/m.orders,2):'—';
+  $('moneyDetail').textContent=pounds(m.sales)+' продажи · '+pounds(m.adjustments)+' коррект.';
+  $('mom').textContent=m.net_growth===null?'—':signed(m.net_growth,x=>f(x*100,1)+'%');$('mom').className=m.net_growth>0?'positive':m.net_growth<0?'negative':'';
+  $('change').textContent=m.net_change===null?'Нет предыдущего полного месяца':signed(m.net_change,pounds)+' к '+monthLabel(D.monthly[i-1].month);
+  $('driverCols').hidden=!d;$('driverCols').style.display=d?'':'none';
+  $('driverSub').textContent=d?monthLabel(m.month)+' к '+monthLabel(D.monthly[i-1].month)+' · нетто каждого SKU, разница в GBP':'Для первого месяца базы сравнения нет.';
+  list('up',d?.up||[]);list('down',d?.down||[]);
+  $('remainder').textContent=d?'Остальные SKU: '+signed(d.total-[...d.up,...d.down].reduce((s,p)=>s+p.contribution,0),x=>pounds(x,2))+' · Итого: '+signed(d.total,x=>pounds(x,2)):'';
+  plot(i);
+}
+$('repeat').textContent=f(D.overview.repeat_rate*100,1)+'%';$('repeatBar').style.width=(100*D.overview.repeat_rate)+'%';
+$('repeatText').textContent=f(D.overview.repeat_customers)+' из '+f(D.overview.known_customers)+' идентифицированных клиентов сделали минимум два заказа.';
+select.addEventListener('change',update); new ResizeObserver(()=>plot(Number(select.value))).observe($('trend'));update();
+</script></body></html>

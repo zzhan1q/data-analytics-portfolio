@@ -1,0 +1,11 @@
+// Create measures one at a time. Money columns are already in GBP.
+Sales GBP = SUM(Monthly[sales_gbp])
+Adjustments GBP = SUM(Monthly[adjustments_gbp])
+Net GBP = SUM(Monthly[net_gbp])
+Orders = SUM(Monthly[orders])
+Average Order GBP = DIVIDE([Sales GBP], [Orders])
+MoM Net % = IF(HASONEVALUE(Monthly[month]), MAX(Monthly[net_growth]))
+Product Contribution GBP = IF(HASONEVALUE(Monthly[month]), SUM(Products[contribution_gbp]))
+Known Customers (Full Period) = MAX(Overview[known_customers])
+Repeat Customers (Full Period) = MAX(Overview[repeat_customers])
+Repeat Rate (Full Period) = DIVIDE([Repeat Customers (Full Period)], [Known Customers (Full Period)])

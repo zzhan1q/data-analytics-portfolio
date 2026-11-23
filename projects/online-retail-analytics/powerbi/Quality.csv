@@ -1,0 +1,5 @@
+﻿rule,source_rows,missing_customer
+adjustment,19493,749
+cancel_positive,1,1
+non_positive_value,6207,6136
+sale,1041670,236121
